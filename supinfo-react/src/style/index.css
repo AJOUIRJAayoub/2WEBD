@@ -1,0 +1,95 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #252525;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.header, .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1c1c1c;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #444;
+}
+
+.navbar h1 {
+    margin: 0;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    margin-left: 20px;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.results-info {
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+    text-align: left;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 960px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+
+    .navbar a {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .results-info {
+        font-size: 0.7rem;
+    }
+}

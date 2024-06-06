@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="febf5259-13df-4a9d-b946-233e9db0e7db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/IMG/Logo-Met-Museum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/IMG/No_image_avalaible.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/AboutSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/HighlightsCarousel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/SearchContent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/components/SearchContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/page/AdvancedSearch.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/page/DetailPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/page/SearchPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/AboutSection.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/AdvancedSearch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/DetailPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/HighlightsCarousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/NavBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/SearchBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/SearchContent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2WEBD/src/style/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2WEBD" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2flbsl7trRLeZE3usTgIahH8gmO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Jest.App.test.js.executor": "Run",
+    "Node.js.App.js.executor": "Run",
+    "Node.js.Search.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ayoub/Desktop/supinfo-react/public/IMG",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/Users/ayoub/WebstormProjects/untitled/supinfo-react/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\ayoub\\Desktop\\supinfo-react\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoub\Desktop\supinfo-react\public\IMG" />
+      <recent name="C:\Users\ayoub\WebstormProjects\untitled\supinfo-react\public\IMG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayoub\Desktop\supinfo-react\src" />
+      <recent name="C:\Users\ayoub\Desktop\supinfo-react\public" />
+      <recent name="C:\Users\ayoub\Desktop\supinfo-react\src\components" />
+      <recent name="C:\Users\ayoub\Desktop\supinfo-react\src\page" />
+      <recent name="C:\wamp64\www\supinfo-react\src\style" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="febf5259-13df-4a9d-b946-233e9db0e7db" name="Changes" comment="" />
+      <created>1714378820946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714378820946</updated>
+      <workItem from="1714378821995" duration="1321000" />
+      <workItem from="1714381646338" duration="2583000" />
+      <workItem from="1714392368658" duration="238000" />
+      <workItem from="1714392624872" duration="89000" />
+      <workItem from="1714392849694" duration="2773000" />
+      <workItem from="1714634837670" duration="10130000" />
+      <workItem from="1714719457773" duration="10085000" />
+      <workItem from="1715066545259" duration="14000" />
+      <workItem from="1715958441586" duration="685000" />
+      <workItem from="1716275977709" duration="44000" />
+      <workItem from="1716812244374" duration="109000" />
+      <workItem from="1716900451184" duration="357000" />
+      <workItem from="1717071646974" duration="5372000" />
+      <workItem from="1717079862549" duration="894000" />
+      <workItem from="1717093899507" duration="8000" />
+      <workItem from="1717156720080" duration="47000" />
+      <workItem from="1717405709468" duration="1169000" />
+      <workItem from="1717418591759" duration="1843000" />
+      <workItem from="1717420473222" duration="1472000" />
+      <workItem from="1717422830504" duration="3344000" />
+      <workItem from="1717507314577" duration="6876000" />
+      <workItem from="1717545326540" duration="19148000" />
+      <workItem from="1717589261137" duration="6010000" />
+      <workItem from="1717598802465" duration="10248000" />
+      <workItem from="1717614579040" duration="644000" />
+      <workItem from="1717615241633" duration="145000" />
+      <workItem from="1717615496474" duration="15581000" />
+      <workItem from="1717656421710" duration="739000" />
+      <workItem from="1717679752124" duration="626000" />
+      <workItem from="1717680726411" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

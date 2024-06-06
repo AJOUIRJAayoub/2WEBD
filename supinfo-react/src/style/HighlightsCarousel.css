@@ -1,0 +1,16 @@
+.carousel-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.carousel .slide {
+    max-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel img {
+    max-height: 400px;
+    object-fit: contain;
+}
